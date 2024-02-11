@@ -1,5 +1,5 @@
 # 12thCS
-### below ones are the codes for tomorrow practicals Computer Science - II
+### below ones are the codes for practicals[12/02/2024] Computer Science - II
 
 Experiment No. 5[Exceptions]
 1.Write assembly language program to add all the BCD numbers to a block from 1000 H to 8008 H. Store Sum at memory location 100A H. [Assume SUM is 8 bit]. 			[20]
