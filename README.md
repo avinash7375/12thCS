@@ -41,7 +41,7 @@ before and after execution as well as the contents of the registers
 used in the program after execution and also the bit contents of all
 five flags individually. Verify the results. 								[5]
 
-Experiment No. 5
+Experiment No. 5[Originally Experiment No. 6, but for practicals slip it's practical No. 5]
 1. Write assembly language program to copy block of 4 consecutive bytes storage from 1000 H to 1003 H. Transfer the entire block to new location from C004 H. 				[20]
 2. Enter the program on the microprocessor kit. 							[5]
 3. Execute the program. Write the contents of data memory locations
